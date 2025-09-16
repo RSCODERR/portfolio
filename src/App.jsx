@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, Github, Linkedin, Mail, ExternalLink, Code, Palette, Zap } from 'lucide-react';
 import './App.css';
-import quizScreenshot from "/home/raghav/Desktop/HTB/TODO/src/assests/Screenshot from 2025-09-14 23-22-39.jpeg";
-import courseBackend from "/home/raghav/Desktop/HTB/TODO/src/assests/courseselling.jpeg";
-import Numbergame from "/home/raghav/Desktop/HTB/TODO/src/assests/Numbergame.jpeg";
+import quizScreenshot from "./assests/Screenshot from 2025-09-14 23-22-39.jpeg";
+import courseBackend from "./assests/courseselling.jpeg";
+import Numbergame from "./assests/Numbergame.jpeg";
 
 
 export default function Portfolio() {
